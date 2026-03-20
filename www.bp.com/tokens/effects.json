@@ -1,0 +1,38 @@
+{
+  "radius-1": {
+    "value": "100px",
+    "description": "Observed 20x on https://www.bp.com, https://www.bp.com/en/global/bp-europa-se/about-bp-europa-se.html, https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-join-adnocs-ruwais-lng-development.html, https://www.bp.com/en/global/corporate/cookie-preferences.html",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.bp.com",
+      "https://www.bp.com/en/global/bp-europa-se/about-bp-europa-se.html",
+      "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-join-adnocs-ruwais-lng-development.html",
+      "https://www.bp.com/en/global/corporate/cookie-preferences.html"
+    ]
+  },
+  "radius-2": {
+    "value": "4px",
+    "description": "Observed 20x on https://www.bp.com/en/global/bp-europa-se/about-bp-europa-se.html, https://www.bp.com/en/global/corporate/cookie-preferences.html",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.bp.com/en/global/bp-europa-se/about-bp-europa-se.html",
+      "https://www.bp.com/en/global/corporate/cookie-preferences.html"
+    ]
+  },
+  "radius-3": {
+    "value": "3px",
+    "description": "Observed 10x on https://www.bp.com",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.bp.com"
+    ]
+  },
+  "radius-4": {
+    "value": "6px",
+    "description": "Observed 10x on https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-join-adnocs-ruwais-lng-development.html",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-join-adnocs-ruwais-lng-development.html"
+    ]
+  }
+}

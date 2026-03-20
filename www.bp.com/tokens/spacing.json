@@ -1,0 +1,29 @@
+{
+  "spacing-xs": {
+    "value": "4px",
+    "description": "Observed 40x on https://www.bp.com, https://www.bp.com/en/global/bp-europa-se/about-bp-europa-se.html, https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-join-adnocs-ruwais-lng-development.html, https://www.bp.com/en/global/corporate/cookie-preferences.html",
+    "usageCount": 40,
+    "observedOn": [
+      "https://www.bp.com",
+      "https://www.bp.com/en/global/bp-europa-se/about-bp-europa-se.html",
+      "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-join-adnocs-ruwais-lng-development.html",
+      "https://www.bp.com/en/global/corporate/cookie-preferences.html"
+    ]
+  },
+  "spacing-3xl": {
+    "value": "90.0013px",
+    "description": "Observed 3x on https://www.bp.com",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.bp.com"
+    ]
+  },
+  "spacing-3xl-2": {
+    "value": "60.0013px",
+    "description": "Observed 3x on https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-join-adnocs-ruwais-lng-development.html",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-join-adnocs-ruwais-lng-development.html"
+    ]
+  }
+}

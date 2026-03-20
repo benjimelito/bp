@@ -1,0 +1,45 @@
+/**
+ * SystemMiner Design Tokens
+ * Extracted from: https://www.bp.com/
+ * Generated: 2026-03-20T17:01:54.114Z
+ * 
+ * Usage: Import this file in your index.css
+ * All tokens use --sm- prefix for namespacing
+ */
+
+:root {
+  /* ======================== */
+  /* Colors                   */
+  /* ======================== */
+  --sm-color-brand-primary: #007f00; /* 130x */
+  --sm-color-brand-background: #ffffff; /* 40x */
+  --sm-color-brand-link: #339933; /* 40x */
+  --sm-color-brand-textprimary: #252530; /* 10x */
+  --sm-color-fff: #fff; /* 4x */
+
+  /* ======================== */
+  /* Typography               */
+  /* ======================== */
+  --sm-font-family-1: Roboto; /* 120x */
+  --sm-font-body-2: 14px; /* 40x */
+  --sm-font-heading-3: 36px; /* 40x */
+  --sm-font-heading-4: 30px; /* 30x */
+  --sm-font-heading-5: 16px; /* 10x */
+  --sm-font-size-6: 13.0px; /* 2x */
+
+  /* ======================== */
+  /* Spacing                  */
+  /* ======================== */
+  --sm-spacing-xs: 4px; /* 40x */
+  --sm-spacing-3xl: 90.0013px; /* 3x */
+  --sm-spacing-3xl-2: 60.0013px; /* 3x */
+
+  /* ======================== */
+  /* Effects                  */
+  /* ======================== */
+  --sm-radius-1: 100px; /* 20x */
+  --sm-radius-2: 4px; /* 20x */
+  --sm-radius-3: 3px; /* 10x */
+  --sm-radius-4: 6px; /* 10x */
+
+}
